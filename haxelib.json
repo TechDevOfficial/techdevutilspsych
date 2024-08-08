@@ -1,0 +1,13 @@
+{
+    "name": "techdevutilspsych",
+    "url" : "https://github.com/TechDevOfficial/techdevutilspsych",
+    "license": "Apache",
+    "tags": ["fnf"],
+    "description": "A util for Friday Night Funkin.",
+    "version": "1.0.1",
+    "classPath": "source/",
+    "releasenote": "",
+    "contributors": ["TechDevOfficial"],
+    "dependencies": {
+    }
+}
